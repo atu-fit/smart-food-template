@@ -155,7 +155,3 @@ npm run dev
 
 * 📊 **Презентация (Pitch Deck):** [Ссылка на PDF-файл в папке docs](https://www.google.com/search?q=./docs/presentation.pdf)
 * 🎥 **Видео-демонстрация / Live Demo (если есть):** [Ссылка на сервис/ролик](https://www.google.com/search?q=)
-
-```
-
-```
