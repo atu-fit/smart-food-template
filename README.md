@@ -153,5 +153,4 @@ npm run dev
 
 ## 📄 6. Материалы и презентация
 
-* 📊 **Презентация (Pitch Deck):** [Ссылка на PDF-файл в папке docs](https://www.google.com/search?q=./docs/presentation.pdf)
-* 🎥 **Видео-демонстрация / Live Demo (если есть):** [Ссылка на сервис/ролик](https://www.google.com/search?q=)
+* 📊 **Презентация (Track 1):** [Ссылка на PDF-файл в папке docs]([https://www.google.com/search?q=./docs/presentation.pdf](https://docs.google.com/document/d/1VLsZtUvqlDI6Q2kYSggDvbmkH8JWcUy7/edit))
